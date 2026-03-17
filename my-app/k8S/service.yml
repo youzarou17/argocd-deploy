@@ -8,5 +8,5 @@ spec:
     app: hello-world
   ports:
   - port: 80
-    targetPort: 8082
+    targetPort: 80
   type: ClusterIP

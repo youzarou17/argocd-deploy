@@ -17,4 +17,4 @@ spec:
       - name: hello-world
         image: nginxdemos/hello
         ports:
-        - containerPort: 8082
+        - containerPort: 80
